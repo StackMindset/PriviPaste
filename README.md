@@ -35,6 +35,8 @@ PriviPaste is designed to be completely frictionless.
 3. **Press `Alt+P`** (or `Cmd+Alt+P` on Mac).
 4. The extension will automatically redact the PII and **instantly paste** the safe version right where your cursor is!
 
+![PriviPaste in Action](Privipaste.png)
+
 ## FAQ
 
 **Q: Does my code leave my machine?**  
