@@ -45,6 +45,8 @@ A: No! All redaction is processed 100% locally on your own hardware.
 **Q: Why does it need to download a model?**  
 A: To keep the initial extension size small, the AI engine downloads the necessary language model directly from Hugging Face on your very first run. After that, it operates entirely offline.
 
+[!IMPORTANT] First Run Model Setup: On your first use, PriviPaste will download the openai/privacy-filter AI model from Hugging Face. This only happens once. You can track the progress in the status bar at the bottom of your window. Subsequent redactions will be near-instant!
+
 ## Bug Reports & Feature Requests
 
 This repository is the central hub for tracking issues, bugs, and feature requests for PriviPaste. 
